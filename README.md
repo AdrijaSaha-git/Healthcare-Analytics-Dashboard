@@ -2,7 +2,7 @@
 
 Python + SQL–based healthcare analytics project that analyzes patient test data and generates key KPIs such as test volume trends, abnormal result rate, turn-around-time (TAT), and technician performance. Outputs a clean KPI dashboard for reporting.
 
-# 📁 Project Structure
+## 📁 Project Structure
 ```
 sql/
 │── schema.sql
@@ -15,7 +15,7 @@ src/
 reports/
 └── healthcare_kpi_dashboard.pdf
 ```
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 Python
 
