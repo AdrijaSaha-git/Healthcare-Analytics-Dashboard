@@ -4,8 +4,6 @@ Python + SQL–based healthcare analytics project that analyzes patient test dat
 
 📁 Project Structure
 
-Use THIS exact code block — it will format correctly:
-
 sql/
 │── schema.sql
 └── sample_data.sql
