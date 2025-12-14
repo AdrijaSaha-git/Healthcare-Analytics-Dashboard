@@ -1,21 +1,20 @@
-🏥 Healthcare Analytics Dashboard for Patient & Test Trends
+#🏥 Healthcare Analytics Dashboard for Patient & Test Trends
 
-Python + SQL–based healthcare analytics project designed to analyze patient test data and generate key operational KPIs.
-The system computes daily test volume, abnormal result rate, turn-around-time (TAT), and technician performance, and exports a clean KPI dashboard for decision-making.
+Python + SQL–based healthcare analytics project that analyzes patient test data and generates key KPIs such as test volume trends, abnormal result rate, turn-around-time (TAT), and technician performance. Outputs a clean KPI dashboard for reporting.
 
-📁 Project Structure
+#📁 Project Structure
 sql/
-├── schema.sql
+│── schema.sql
 └── sample_data.sql
 
 src/
-├── analytics.py
+│── analytics.py
 └── main.py
 
 reports/
 └── healthcare_kpi_dashboard.pdf
 
-🛠 Tech Stack
+#🛠 Tech Stack
 
 Python
 
@@ -25,4 +24,4 @@ Pandas
 
 Matplotlib
 
-PdfPages
+PdfPages (PDF Export)
